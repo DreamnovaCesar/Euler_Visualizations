@@ -57,6 +57,10 @@ The script performs the following tasks:
 - **Camera Position**: Adjust `camera_object.location` to change the camera's viewpoint.
 - **Voxel Data**: Ensure your text file is formatted correctly (comma-separated values) for successful data loading.
 
+## Data Source
+
+The `src/data` directory contains two images of cheese that can be used for reference or testing purposes in this project.
+
 ## Example Use Case
 
 This script is ideal for visualizing 3D structures derived from voxel data, such as medical imaging, scientific simulations, or voxel-based modeling. By focusing on perimeter voxels, it efficiently highlights the object's shape and boundaries.
@@ -69,10 +73,10 @@ This script is ideal for visualizing 3D structures derived from voxel data, such
 ---
 
 Feel free to reach out if you encounter any issues or have suggestions for improvement!
+
 ## Co-authors
 
 - Dr. Hermilo Sanchez Cruz
-- Ms. Elisa
 
 ### Built With
 
